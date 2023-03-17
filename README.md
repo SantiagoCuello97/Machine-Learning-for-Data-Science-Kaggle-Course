@@ -16,7 +16,7 @@
 
 4. [Model Validation](https://github.com/SantiagoCuello97/Machine-Learning-Kaggle-Course/blob/main/Intro%20to%20Machine%20Learning/04-model-validation.ipynb)
 
-   Measure the performance of your model ? so you can test and compare alternatives.
+   Measure the performance of your model, so you can test and compare alternatives.
 
 5. [Underfitting and Overfitting](https://github.com/SantiagoCuello97/Machine-Learning-Kaggle-Course/blob/main/Intro%20to%20Machine%20Learning/05-underfitting-and-overfitting.ipynb)
 
