@@ -3,6 +3,7 @@
 ## Intro to Machine Learning
 
 1. How Models Work
+
    The first step if you're new to machine learning.
 
 2. [Basic Data Exploration](https://github.com/SantiagoCuello97/Machine-Learning-Kaggle-Course/blob/main/Intro%20to%20Machine%20Learning/02-explore-your-data.ipynb)
